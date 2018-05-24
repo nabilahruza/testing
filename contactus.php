@@ -11,6 +11,7 @@
 <style type="text/css">
 //yer ni ha dah comment
 	//trylagi
+	//tambahlagicomment
 	//commentlagi
 body
 {
